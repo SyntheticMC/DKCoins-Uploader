@@ -1,9 +1,9 @@
 # DKCoins-Uploader
 
-##Requirements
+## Requirements
   - https://nodejs.org/en/
 
-##Usage
+## Usage
   1. Download Repository and extract in a new Folder
   2. Open cmd in the Folder and type "npm install"
   3. Open "config.json" -> edit values for database -> Save File
